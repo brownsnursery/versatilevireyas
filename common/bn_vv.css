@@ -68,3 +68,7 @@ img {
   position: relative;
   text-align: justify;
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
