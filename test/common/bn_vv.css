@@ -1,0 +1,74 @@
+
+a:link {
+  color: #906000;
+  text-decoration:none;
+}
+a:visited {
+  color: #906000;
+  text-decoration:none;
+}
+a:active {
+  color: #906000;
+  text-decoration:none;
+}
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: #3366a3;
+}
+img {
+  border-width: 0;
+  vertical-align: top;
+}
+#centered {
+  position: relative;
+  width: 950px;
+  height: 100%;
+  margin: 0px auto 0 auto;
+  text-align: left;
+  padding-left: 1px;
+  cursor: default;
+}
+.dfltt {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  text-align: left;
+  color: #000000;
+}
+.txs_03 {font-size: 3px;}
+.txs_06 {font-size: 6px;}
+.txs_11 {font-size: 11px;}
+.txs_12 {font-size: 12px;}
+.txs_13 {font-size: 13px;}
+.txs_15 {font-size: 15px;}
+.txs_24 {font-size: 24px;}
+.txs_29 {font-size: 29px;}
+.txf_tnr {font-family: 'Times New Roman', serif;}
+.txw_b {font-weight: bold;}
+.txc_bl {color: #336699;}
+.txc_bn {color: #906000;}
+.lalign {
+  position: relative;
+  text-align: left;
+}
+.ralign {
+  position: relative;
+  text-align: right;
+}
+.calign {
+  position: relative;
+  text-align: center;
+}
+.jalign {
+  position: relative;
+  text-align: justify;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
